@@ -51,7 +51,7 @@ Partial Class MainForm
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(88, 192)
+        Me.Label1.Location = New System.Drawing.Point(87, 192)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(90, 15)
         Me.Label1.TabIndex = 2
@@ -59,16 +59,18 @@ Partial Class MainForm
         '
         'Tb_Personenanzahl
         '
-        Me.Tb_Personenanzahl.Location = New System.Drawing.Point(12, 210)
+        Me.Tb_Personenanzahl.Location = New System.Drawing.Point(11, 210)
         Me.Tb_Personenanzahl.Name = "Tb_Personenanzahl"
         Me.Tb_Personenanzahl.Size = New System.Drawing.Size(243, 23)
         Me.Tb_Personenanzahl.TabIndex = 0
         '
         'PictureBox1
         '
+        Me.PictureBox1.Image = Global.Mettrechner.My.Resources.Resources.minced_meat_2309860_1920
         Me.PictureBox1.Location = New System.Drawing.Point(12, 12)
         Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(243, 152)
+        Me.PictureBox1.Size = New System.Drawing.Size(243, 145)
+        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
         Me.PictureBox1.TabIndex = 4
         Me.PictureBox1.TabStop = False
         '

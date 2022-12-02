@@ -17,3 +17,23 @@ C:\Users\Sascha Breipohl\source\repos\Mettrechner\Mettrechner\obj\Debug\net6.0-w
 C:\Users\Sascha Breipohl\source\repos\Mettrechner\Mettrechner\obj\Debug\net6.0-windows\Mettrechner.pdb
 C:\Users\Sascha Breipohl\source\repos\Mettrechner\Mettrechner\obj\Debug\net6.0-windows\Mettrechner.genruntimeconfig.cache
 C:\Users\Sascha Breipohl\source\repos\Mettrechner\Mettrechner\obj\Debug\net6.0-windows\ref\Mettrechner.dll
+C:\Users\sasch\Source\Repos\Mettrechner\Mettrechner\bin\Debug\net6.0-windows\Mettrechner.exe
+C:\Users\sasch\Source\Repos\Mettrechner\Mettrechner\bin\Debug\net6.0-windows\Mettrechner.dll.config
+C:\Users\sasch\Source\Repos\Mettrechner\Mettrechner\bin\Debug\net6.0-windows\Mettrechner.deps.json
+C:\Users\sasch\Source\Repos\Mettrechner\Mettrechner\bin\Debug\net6.0-windows\Mettrechner.runtimeconfig.json
+C:\Users\sasch\Source\Repos\Mettrechner\Mettrechner\bin\Debug\net6.0-windows\Mettrechner.dll
+C:\Users\sasch\Source\Repos\Mettrechner\Mettrechner\bin\Debug\net6.0-windows\Mettrechner.pdb
+C:\Users\sasch\Source\Repos\Mettrechner\Mettrechner\obj\Debug\net6.0-windows\Mettrechner.vbproj.AssemblyReference.cache
+C:\Users\sasch\Source\Repos\Mettrechner\Mettrechner\obj\Debug\net6.0-windows\Mettrechner.MainForm.resources
+C:\Users\sasch\Source\Repos\Mettrechner\Mettrechner\obj\Debug\net6.0-windows\Mettrechner.Resources.resources
+C:\Users\sasch\Source\Repos\Mettrechner\Mettrechner\obj\Debug\net6.0-windows\Mettrechner.Settings.resources
+C:\Users\sasch\Source\Repos\Mettrechner\Mettrechner\obj\Debug\net6.0-windows\Mettrechner.vbproj.GenerateResource.cache
+C:\Users\sasch\Source\Repos\Mettrechner\Mettrechner\obj\Debug\net6.0-windows\Mettrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasch\Source\Repos\Mettrechner\Mettrechner\obj\Debug\net6.0-windows\Mettrechner.AssemblyInfoInputs.cache
+C:\Users\sasch\Source\Repos\Mettrechner\Mettrechner\obj\Debug\net6.0-windows\Mettrechner.AssemblyInfo.vb
+C:\Users\sasch\Source\Repos\Mettrechner\Mettrechner\obj\Debug\net6.0-windows\Mettrechner.vbproj.CoreCompileInputs.cache
+C:\Users\sasch\Source\Repos\Mettrechner\Mettrechner\obj\Debug\net6.0-windows\Mettrechner.dll
+C:\Users\sasch\Source\Repos\Mettrechner\Mettrechner\obj\Debug\net6.0-windows\refint\Mettrechner.dll
+C:\Users\sasch\Source\Repos\Mettrechner\Mettrechner\obj\Debug\net6.0-windows\Mettrechner.pdb
+C:\Users\sasch\Source\Repos\Mettrechner\Mettrechner\obj\Debug\net6.0-windows\Mettrechner.genruntimeconfig.cache
+C:\Users\sasch\Source\Repos\Mettrechner\Mettrechner\obj\Debug\net6.0-windows\ref\Mettrechner.dll
